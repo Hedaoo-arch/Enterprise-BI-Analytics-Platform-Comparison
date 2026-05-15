@@ -6,7 +6,7 @@ description: >
   through (A) an enterprise architecture & data-platform lens and (B) a
   business-user & visualization lens — with executive tables, layer-by-layer
   mapping, strengths, limitations, and best-fit use cases.
-author: "<your name>"
+author: "<Archana H.>"
 date: 2026-05-14
 version: "1.0"
 tags:
@@ -242,4 +242,4 @@ This lens asks: *what does the analyst, finance partner, or executive actually e
 
 ---
 
-*Maintained by `<your name>`. Contributions and corrections welcome via pull request.*
+*Maintained by `<Archana H.>`. Contributions and corrections welcome via pull request.*
