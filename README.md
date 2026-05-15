@@ -238,8 +238,12 @@ This lens asks: *what does the analyst, finance partner, or executive actually e
 - This comparison reflects vendor capabilities as commonly observed in enterprise implementations and is **intentionally directional** rather than feature-by-feature exhaustive.
 - Vendor capabilities evolve rapidly — especially around AI, semantic layers, and lakehouse integration. Validate against current product documentation before strategic decisions.
 - Ratings (●●● / ●● / ●) are **relative across these five tools only**, not absolute industry rankings.
-- This document is vendor-neutral and not affiliated with or endorsed by Oracle, Salesforce, Microsoft, IBM, or Workday. All trademarks belong to their respective owners.
+  
+- This document is vendor-neutral and not affiliated with or endorsed by Oracle, Salesforce, Microsoft, IBM, or Workday.The rating mentioned here are based on my experience with the tools,at different level of expertise, of course, contributions from gen-AI.
+-  All trademarks belong to their respective owners.
 
 ---
-
+## Contributing
+   See the [open questions](https://github.com/<you>/bi-tools-comparison/issues) — corrections, vendor updates, and new tool suggestions all welcome.
+   
 *Maintained by `<Archana H.>`. Contributions and corrections welcome via pull request.*
